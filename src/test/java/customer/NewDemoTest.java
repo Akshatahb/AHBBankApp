@@ -15,6 +15,7 @@ public class NewDemoTest {
 	{
 		System.out.println("------Test 2------");
 		System.out.println("Akshata");
+		System.out.println("Akshay");
 	}
 
 }
